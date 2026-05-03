@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaurFarm.github.io/snippets-phf0cv/sitemap.xml
